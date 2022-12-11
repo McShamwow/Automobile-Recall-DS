@@ -15,8 +15,6 @@ def getNodeText(node):
             result.append(node.data)
     return ''.join(result)
 
-
-
 ## ======================= main ==============================
 
 # DEFINE MYSQL OBJECTS - connection, cursor, queries
